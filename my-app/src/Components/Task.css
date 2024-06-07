@@ -1,0 +1,13 @@
+.Fill{
+    background-color: aqua;
+   padding: 10px;
+
+}
+form{
+    padding:20px;
+    /* text-align: left; */
+}
+form input{
+    margin:10px;
+    border-radius: 30px;
+}
